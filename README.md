@@ -1,4 +1,4 @@
-Desafío literalura
+Desafío Foro Alura
 
 Proyecto llamado "Desafío Literalura", realizado para la formación del programa Oracle Next Education (Oracle ONE). Es una aplicación de consola en Java que permite a los usuarios buscar libros por título, listar libros y autores registrados, listar autores vivos en un determinado año, listar libros por idioma, ver los 10 libros más descargados y obtener estadísticas.
 
